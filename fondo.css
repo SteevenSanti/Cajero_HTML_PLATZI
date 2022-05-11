@@ -1,0 +1,44 @@
+body {
+    background-color: chocolate;
+}
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+    width: 50px;
+}
+.principal{
+    display: block;
+    margin: 0px auto;
+    width: 500px;
+}
+header{
+    width: 100%;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+.respuesta{
+    display: flex;
+    justify-content: center;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+div{
+    margin-right: 1em;
+}
+.ingreso{
+    
+    display: flex;
+    justify-content: center;
+}
+p{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
